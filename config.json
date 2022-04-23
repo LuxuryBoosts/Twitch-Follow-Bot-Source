@@ -1,0 +1,55 @@
+{
+    "bot_config": {
+        "server_id": ,
+        "logs": , 
+        "prefix": "/",
+        "token": "",
+        "twitch_channel": "",
+        "twitch_channel_2": ""
+    },
+    "tfollow": {
+        "Premium +": 1000,
+        "Premium": 800,
+        "Diamond": 500,
+        "Gold": 200,
+        "Silver": 125,
+        "Bronze": 75,
+        "User": 35
+    },
+    "tfriend": {
+        "Premium +": 600,
+        "Premium": 480,
+        "Diamond ": 250,
+        "Gold": 120,
+        "Silver": 50,
+        "Bronze": 25,
+        "User": 5
+    },
+    "treport": {
+        "Premium +": 600,
+        "Premium": 480,
+        "Diamond ": 320,
+        "Gold": 240,
+        "Silver": 120,
+        "Bronze": 60,
+        "User": 5
+    },
+    "tspam": {
+        "Premium +": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "ttroll": {
+        "Premium +": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    },
+    "traid": {
+        "Premium +": 50,
+        "Premium": 30,
+        "Diamond": 20,
+        "Gold": 15
+    }
+}
